@@ -1,0 +1,39 @@
+{
+	"Tier One - Starting Out Small": 	{
+		"starting": true,
+		"connects_to": ["Tier Two - Your First Real Gig","Tier Three - Making the Video","Tier Four - European Invasion","Tier Five - Big House Blues","Tier Six - Hottest Band On Earth","Tier Seven - Live In Japan","Tier Eight - Battle For Your Soul","Extras"],
+		"requires": []
+	},
+	"Tier Two - Your First Real Gig": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+	},
+	"Tier Three - Making the Video": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+	},
+	"Tier Four - European Invasion": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+	},
+	"Tier Five - Big House Blues": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+	},
+	"Tier Six - Hottest Band On Earth": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+	},
+	"Tier Seven - Live In Japan": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+	},
+	"Tier Eight - Battle For Your Soul": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+	},
+	"Extras": 	{
+		"connects_to": ["Tier One - Starting Out Small"],
+		"requires": []
+}
+}

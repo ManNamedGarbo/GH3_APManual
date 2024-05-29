@@ -1,0 +1,318 @@
+[
+	{
+		"name": "Slow Ride - Foghat",
+		"region": "Tier One - Starting Out Small",
+		"category": ["song"],
+		"requires": []
+	},
+	{
+		"name": "Talk Dirty To Me - Poison",
+		"region": "Tier One - Starting Out Small",
+		"category": ["song"],
+		"requires": "|Unlock T1 Talk Dirty To Me|"
+	},
+	{
+		"name": "Hit Me With Your Best Shot - Pat Benatar",
+		"region": "Tier One - Starting Out Small",
+		"category": ["song"],
+		"requires": "|Unlock T1 Hit Me With Your Best Shot|"
+	},
+	{
+		"name": "Story Of My Life - Social Distortion",
+		"region": "Tier One - Starting Out Small",
+		"category": ["song"],
+		"requires": "|Unlock T1 Story Of My Life|"
+	},
+	{
+		"name": "Rock And Roll All Nite - Kiss (Encore)",
+		"region": "Tier One - Starting Out Small",
+		"category": ["song","encore"],
+		"requires": "|Unlock T1 Rock and Roll All Nite|"
+	},
+	{
+		"name": "Mississippi Queen - Mountain",
+		"region": "Tier Two - Your First Real Gig",
+		"category": ["song"],
+		"requires": "|Unlock T2 Mississippi Queen|"
+	},
+	{
+		"name": "Schools Out - Alice Cooper",
+		"region": "Tier Two - Your First Real Gig",
+		"category": ["song"],
+		"requires": "|Unlock T2 Schools Out|"
+	},
+	{
+		"name": "Sunshine Of Your Love - Cream",
+		"region": "Tier Two - Your First Real Gig",
+		"category": ["song"],
+		"requires": "|Unlock T2 Sunshine Of Your Love|"
+	},
+	{
+		"name": "Barracuda - Heart",
+		"region": "Tier Two - Your First Real Gig",
+		"category": ["song"],
+		"requires": "|Unlock T2 Barracuda|"
+	},
+	{
+		"name": "Guitar Battle vs Tom Morello",
+		"region": "Tier Two - Your First Real Gig",
+		"category": ["song","battle"],
+		"requires": "|Invitation to Battle - Tom Morello|",
+		"place_item": ["Proof of Battle Victory - Tom Morello"]
+	},
+	{
+		"name": "Bulls On Parade - Rage Against The Machine (Encore)",
+		"region": "Tier Two - Your First Real Gig",
+		"category": ["song","encore"],
+		"requires": "|Unlock T2 Bulls On Parade|"
+	},
+	{
+		"name": "When You Were Young - The Killers",
+		"region": "Tier Three - Making the Video",
+		"category": ["song"],
+		"requires": "|Unlock T3 When You Were Young|"
+	},
+	{
+		"name": "Miss Murder - AFI",
+		"region": "Tier Three - Making the Video",
+		"category": ["song"],
+		"requires": "|Unlock T3 Miss Murder|"
+	},
+	{
+		"name": "Lay Down - Priestess",
+		"region": "Tier Three - Making the Video",
+		"category": ["song"],
+		"requires": "|Unlock T3 Lay Down|"
+	},
+	{
+		"name": "Paint It Black - The Rolling Stones (Encore)",
+		"region": "Tier Three - Making the Video",
+		"category": ["song","encore"],
+		"requires": "|Unlock T3 Paint It Black|"
+	},
+	{
+		"name": "Paranoid - Black Sabbath",
+		"region": "Tier Four - European Invasion",
+		"category": ["song"],
+		"requires": "|Unlock T4 Paranoid|"
+	},
+	{
+		"name": "Anarchy In The UK - The Sex Pistols",
+		"region": "Tier Four - European Invasion",
+		"category": ["song"],
+		"requires": "|Unlock T4 Anarchy In The UK|"
+	},
+	{
+		"name": "Kool Thing - Sonic Youth",
+		"region": "Tier Four - European Invasion",
+		"category": ["song"],
+		"requires": "|Unlock T4 Kool Thing|"
+	},
+	{
+		"region": "Tier Four - European Invasion",
+		"name": "My Name Is Jonas - Weezer",
+		"category": ["song"],
+		"requires": "|Unlock T4 My Name Is Jonas|"
+	},
+	{
+		"name": "Even Flow - Pearl Jam (Encore)",
+		"region": "Tier Four - European Invasion",
+		"category": ["song","encore"],
+		"requires": "|Unlock T4 Even Flow|"
+	},
+	{
+		"name": "Holiday In Cambodia - Dead Kennedys",
+		"region": "Tier Five - Big House Blues",
+		"category": ["song"],
+		"requires": "|Unlock T5 Holiday In Cambodia|"
+	},
+	{
+		"name": "Rock You Like A Hurricane - The Scorpions",
+		"region": "Tier Five - Big House Blues",
+		"category": ["song"],
+		"requires": "|Unlock T5 Rock You Like A Hurricane|"
+	},
+	{
+		"name": "Same Old Song And Dance - Aerosmith",
+		"region": "Tier Five - Big House Blues",
+		"category": ["song"],
+		"requires": "|Unlock T5 Same Old Song and Dance|"
+	},
+	{
+		"name": "La Grange - ZZ Top",
+		"region": "Tier Five - Big House Blues",
+		"category": ["song"],
+		"requires": "|Unlock T5 La Grange|"
+	},
+	{
+		"name": "Guitar Battle vs Slash",
+		"region": "Tier Five - Big House Blues",
+		"category": ["song","battle"],
+		"requires": "|Invitation to Battle - Slash|",
+		"place_item": ["Proof of Battle Victory - Slash"]
+	},
+	{
+		"name": "Welcome To The Jungle - Guns n Roses (Encore)",
+		"region": "Tier Five - Big House Blues",
+		"category": ["song","encore"],
+		"requires": "|Unlock T5 Welcome To The Jungle|"
+	},
+	{
+		"name": "Black Magic Woman - Santana",
+		"region": "Tier Six - Hottest Band On Earth",
+		"category": ["song"],
+		"requires": "|Unlock T6 Black Magic Woman|"
+	},
+	{
+		"name": "Cherub Rock - The Smashing Pumpkins",
+		"region": "Tier Six - Hottest Band On Earth",
+		"category": ["song"],
+		"requires": "|Unlock T6 Cherub Rock|"
+	},
+	{
+		"name": "Black Sunshine - White Zombie",
+		"region": "Tier Six - Hottest Band On Earth",
+		"category": ["song"],
+		"requires": "|Unlock T6 Black Sunshine|"
+	},
+	{
+		"name": "The Metal - Tenacious D",
+		"region": "Tier Six - Hottest Band On Earth",
+		"category": ["song"],
+		"requires": "|Unlock T6 The Metal|"
+	},
+	{
+		"name": "Pride And Joy - Stevie Ray Vaughn (Encore)",
+		"region": "Tier Six - Hottest Band On Earth",
+		"category": ["song","encore"],
+		"requires": "|Unlock T6 Pride and Joy|"
+	},
+	{
+		"name": "Before I Forget - Slipknot",
+		"region": "Tier Seven - Live In Japan",
+		"category": ["song"],
+		"requires": "|Unlock T7 Before I Forget|"
+	},
+	{
+		"name": "Stricken - Disturbed",
+		"region": "Tier Seven - Live In Japan",
+		"category": ["song"],
+		"requires": "|Unlock T7 Stricken|"
+	},
+	{
+		"name": "3s And 7s - Queens of the Stone Age",
+		"region": "Tier Seven - Live In Japan",
+		"category": ["song"],
+		"requires": "|Unlock T7 3s and 7s|"
+	},
+	{
+		"name": "Knights Of Cydonia - Muse",
+		"region": "Tier Seven - Live In Japan",
+		"category": ["song"],
+		"requires": "|Unlock T7 Knights Of Cydonia|"
+	},
+	{
+		"name": "Cult Of Personality - Living Colour (Encore)",
+		"region": "Tier Seven - Live In Japan",
+		"category": ["song","encore"],
+		"requires": "|Unlock T7 Cult Of Personality|"
+	},
+	{
+		"name": "Raining Blood - Slayer",
+		"region": "Tier Eight - Battle For Your Soul",
+		"category": ["song"],
+		"requires": "|Unlock T8 Raining Blood|"
+	},
+	{
+		"name": "Cliffs Of Dover - Eric Johnson",
+		"region": "Tier Eight - Battle For Your Soul",
+		"category": ["song"],
+		"requires": "|Unlock T8 Cliffs Of Dover|"
+	},
+	{
+		"name": "The Number Of The Beast - Iron Maiden",
+		"region": "Tier Eight - Battle For Your Soul",
+		"category": ["song"],
+		"requires": "|Unlock T8 The Number Of The Beast|"
+	},
+	{
+		"name": "One - Metallica",
+		"region": "Tier Eight - Battle For Your Soul",
+		"category": ["song"],
+		"requires": "|Unlock T8 One|"
+	},
+	{
+		"name": "Guitar Battle vs Lou",
+		"region": "Tier Eight - Battle For Your Soul",
+		"category": ["song","battle"],
+		"requires": "|Invitation to Battle - Lou|",
+		"place_item": ["Proof of Battle Victory - Lou"]
+	},
+	{
+		"name": "Through the Fire and Flames - Dragonforce",
+		"region": "Extras",
+		"victory": true,
+		"category": ["bonus_song"],
+		"requires": "|Invitation to Battle - Tom Morello| AND |Proof of Battle Victory - Tom Morello| AND |Invitation to Battle - Slash| AND |Proof of Battle Victory - Slash| AND |Invitation to Battle - Lou| AND |Proof of Battle Victory - Lou|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 1",
+		"region": "Tier One - Starting Out Small",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t1:1|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 2",
+		"region": "Tier Two - Your First Real Gig",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t2:1|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 3",
+		"region": "Tier Three - Making the Video",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t3:1|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 4",
+		"region": "Tier Four - European Invasion",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t4:1|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 5",
+		"region": "Tier Five - Big House Blues",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t5:1|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 6",
+		"region": "Tier Six - Hottest Band On Earth",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t6:1|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 7",
+		"region": "Tier Seven - Live In Japan",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t7:1|"
+	},
+	{
+		"name": "Obtain 5 Stars on a song in Tier 8",
+		"region": "Tier Eight - Battle For Your Soul",
+		"category": ["challenges"],
+		"requires": "|@song_unlock_t8:1|"
+	},
+	{
+		"name": "Obtain a Full Combo on any song",
+		"region": "Extras",
+		"category": ["challenges"],
+		"requires": []
+	},
+	{
+		"name": "The Who - The Seeker",
+		"region": "Tier Three - Making the Video",
+		"category": ["song"],
+		"requires": "|Unlock T3 The Seeker|"
+	}
+]
